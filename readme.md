@@ -1,4 +1,4 @@
-# Data Interconnect Test Application
+# DI Test Application
 
 ## Specification
 
