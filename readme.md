@@ -21,7 +21,7 @@ the happy path.
 4. Code should demonstrate understanding of the features of PHP 7.
 
 ## Usage
-1. Install PHP or greater
+1. Install PHP 7.0 or greater
 2. Install composer (https://getcomposer.org/)
 3. Run `composer install`
 4. Run the `index.php` file
