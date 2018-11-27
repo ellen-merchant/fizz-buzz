@@ -1,4 +1,4 @@
-# DI Test Application
+# Fizz/Buzz PHP coding test
 
 ## Specification
 
