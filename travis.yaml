@@ -1,0 +1,12 @@
+language: php
+sudo: required
+dist: trusty
+php:
+- 7.2
+before_install:
+- composer self-update
+- npm i npm@latest -g
+before_script:
+- composer install --no-interaction
+script:
+- phpdbg -qrr vendor/bin/phpunit --coverage-clover=coverage.xml
