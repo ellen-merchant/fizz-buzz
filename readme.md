@@ -1,4 +1,5 @@
 # Fizz/Buzz PHP coding test
+[![Build Status](https://travis-ci.org/ellllllen/fizz-buzz.svg?branch=master)](https://travis-ci.com/ellllllen/fizz-buzz)
 
 ## Specification
 
