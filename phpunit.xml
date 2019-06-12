@@ -9,7 +9,9 @@
          processIsolation="false"
          stopOnFailure="false">
     <testsuites>
-      <directory suffix="Test.php">./tests/Feature</directory>
+        <testsuite name="Unit">
+            <directory suffix="Test.php">./tests/Feature</directory>
+        </testsuite>
     </testsuites>
     <filter>
         <whitelist processUncoveredFilesFromWhitelist="true">
